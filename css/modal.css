@@ -5,11 +5,13 @@
     width: 100%;
     height: 100%;
     background: #00000090;
+    /*Ficar transparente atrás de todos os formulários*/
     opacity: 0;
     z-index: -1;
 }
 
 .modal.active{
+    /*Totalmente visível*/
     opacity: 1;
     z-index: 1;
 }
@@ -54,10 +56,11 @@
 
 .modal-form{
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    justify-content:space-between;
+    flex-wrap:wrap;
     gap: 20px;
-    padding: 0 20px;
+    padding: 0 30px;
+    padding-top: 2vh;
 }
 
 .modal-field{
