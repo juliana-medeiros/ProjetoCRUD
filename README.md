@@ -1,7 +1,7 @@
 
 # Projeto CRUD
 
-Projeto feito para estudar CRUD atravéx de um cadastro de clientes utilizando localStore como banco de dados.
+Projeto feito para estudar CRUD atravéz de um cadastro de clientes utilizando localStore como banco de dados.
 
 
 
